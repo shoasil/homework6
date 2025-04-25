@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Информатика</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="title">Информатика</div>
+
+  <div class="styled-text">
+    <span class="size-8">Домашняя работа</span><br><br>
+
+    <span class="size-1">Пр</span>
+    <span class="size-8">eд</span>
+    <span class="size-2">лож</span>
+    <span class="size-2">eн</span>
+    <span class="size-7">ue</span>
+    <span class="size-3">нa</span>
+    <span class="size-6">пи</span>
+    <span class="size-3">ca</span>
+    <span class="size-6">нн</span>
+    <span class="size-4">oe</span>
+    <span class="size-5">pa</span>
+    <span class="size-4">3H</span>
+    <span class="size-5">ыми</span>
+    <span class="size-4">pa</span>
+    <span class="size-8">3м</span>
+    <span class="size-2">ep</span>
+    <span class="size-4">aми</span><br><br>
+
+    <span class="size-7 gothic">Размер 1</span><br>
+    <span class="size-7 blackadder">Размер7</span><br>
+    <span class="size-7 red">Размер 3</span><br>
+    <span class="size-7 blue">Размер 4</span><br>
+    <span class="size-7 green">Размер 5</span><br>
+    <span class="size-7 perpal">Размер 6</span><br>
+    <span class="size-7 yellow">Размер 7</span><br>
+    <span class="size-8 orange">Размер 8</span><br>
+  </div>
+
+</body>
+</html>
+
+
+</body>
+</html>
